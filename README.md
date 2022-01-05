@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krit-gautam
 - 👀 I’m interested in python programming
 - 🌱 I’m currently building skills
-- 💞️ I’m looking to collaborate on challenging project
+- 💞️ I’m looking to collaborate with challenging project
 - 📫 How to reach me -contact me krit.gautam1996@gmail.com
 
 <!---
